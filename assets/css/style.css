@@ -84,4 +84,9 @@ main {
     color: #fff;
     text-decoration: none;
     box-shadow: 1px 1px 5px rgb(105, 105, 105);
+    transition: 0.3s;
+}
+
+.links a:hover {
+    transform: translateY(-5px);
 }
