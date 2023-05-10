@@ -25,7 +25,7 @@ main {
     height: 40rem;
     width: 21rem;
     padding: 10px;
-    box-shadow: 1px 1px 10px rgb(105, 105, 105);
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.381);
 }
 
 
@@ -61,6 +61,7 @@ main {
     height: 10.25rem;
     object-fit: cover;
     border-radius: 50%;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.206);
 }
 
 
